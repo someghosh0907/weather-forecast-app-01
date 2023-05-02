@@ -1,0 +1,8 @@
+.nav-item {
+    justify-content: space-between;
+}
+
+.navbar-nav{
+    padding:10px;
+    justify-content: space-between;
+}
